@@ -1,0 +1,24 @@
+{
+  "name": "studibudi",
+  "version": "1.0.0",
+  "description": "HackGT5 project woot woot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shannon-Ke/studibudi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shannon-Ke/studibudi/issues"
+  },
+  "homepage": "https://github.com/Shannon-Ke/studibudi#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
