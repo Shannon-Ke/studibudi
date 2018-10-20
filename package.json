@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Shannon-Ke/studibudi#readme",
   "dependencies": {
+    "@google-cloud/vision": "^0.22.1",
     "body-parser": "^1.15.1",
     "express": "^4.13.4"
   }
